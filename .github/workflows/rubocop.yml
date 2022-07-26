@@ -11,7 +11,7 @@ on:
 jobs:
   standardrb:
     name: Standard Ruby Action
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: actions/checkout@master
     - name: Set up Ruby 3.1

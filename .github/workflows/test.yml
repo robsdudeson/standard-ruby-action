@@ -11,7 +11,7 @@ on:
 jobs:
   test:
     name: Rspec Test Action
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: actions/checkout@master
     - name: Set up Ruby 3.1
