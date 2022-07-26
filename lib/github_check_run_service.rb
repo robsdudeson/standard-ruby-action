@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class GithubCheckRunService
-  CHECK_NAME = "StandardRB"
+  CHECK_NAME = "Standard Ruby Action"
 
   def initialize(report, github_data, report_adapter)
     @report = report
