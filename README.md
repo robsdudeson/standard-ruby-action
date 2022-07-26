@@ -1,6 +1,6 @@
-# Standard Ruby Action - Official GitHub Action for [Standard](https://github.com/testdouble/standard)
+# Standard Ruby Action - Official GitHub Action for [StandardRB](https://github.com/testdouble/standard)
 
-- [Standard Ruby Action - Official GitHub Action for Standard](#standard-ruby-action---official-github-action-for-standard)
+- [Standard Ruby Action - Official GitHub Action for StandardRB](#standard-ruby-action---official-github-action-for-standardrb)
   - [:page_facing_up: Introduction](#page_facing_up-introduction)
   - [:bulb: Usage](#bulb-usage)
     - [:package: Example Workflow](#package-example-workflow)

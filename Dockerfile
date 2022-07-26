@@ -2,7 +2,7 @@ FROM ruby:3.1.2-alpine
 
 RUN apk add --update build-base git
 
-LABEL "repository"="https://github.com/testdouble/standardrb-action"
+LABEL "repository"="https://github.com/testdouble/standard-ruby-action"
 LABEL "version"="0.0.3"
 
 COPY lib /action/lib

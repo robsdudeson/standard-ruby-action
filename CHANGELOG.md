@@ -1,28 +1,28 @@
 # Changelog
 
-## [Unreleased](https://github.com/andrewmcodes/standardrb-action/tree/HEAD)
+## [Unreleased](https://github.com/andrewmcodes/standard-ruby-action/tree/HEAD)
 
-[Full Changelog](https://github.com/andrewmcodes/standardrb-action/compare/v0.0.2...HEAD)
-
-**Merged pull requests:**
-
-- Update incorrect project name in README [\#8](https://github.com/andrewmcodes/standardrb-action/pull/8) ([martinemde](https://github.com/martinemde))
-- Add changelog generator [\#6](https://github.com/andrewmcodes/standardrb-action/pull/6) ([andrewmcodes](https://github.com/andrewmcodes))
-
-## [v0.0.2](https://github.com/andrewmcodes/standardrb-action/tree/v0.0.2) (2019-11-07)
-
-[Full Changelog](https://github.com/andrewmcodes/standardrb-action/compare/v0.0.1...v0.0.2)
+[Full Changelog](https://github.com/andrewmcodes/standard-ruby-action/compare/v0.0.2...HEAD)
 
 **Merged pull requests:**
 
-- v0.0.2 version bump [\#4](https://github.com/andrewmcodes/standardrb-action/pull/4) ([andrewmcodes](https://github.com/andrewmcodes))
-- Fix unprocessable entity error when versions are present [\#3](https://github.com/andrewmcodes/standardrb-action/pull/3) ([andrewmcodes](https://github.com/andrewmcodes))
-- docs: add andrewmcodes as a contributor [\#2](https://github.com/andrewmcodes/standardrb-action/pull/2) ([allcontributors[bot]](https://github.com/apps/allcontributors))
-- Update issue templates [\#1](https://github.com/andrewmcodes/standardrb-action/pull/1) ([andrewmcodes](https://github.com/andrewmcodes))
+- Update incorrect project name in README [\#8](https://github.com/andrewmcodes/standard-ruby-action/pull/8) ([martinemde](https://github.com/martinemde))
+- Add changelog generator [\#6](https://github.com/andrewmcodes/standard-ruby-action/pull/6) ([andrewmcodes](https://github.com/andrewmcodes))
 
-## [v0.0.1](https://github.com/andrewmcodes/standardrb-action/tree/v0.0.1) (2019-11-07)
+## [v0.0.2](https://github.com/andrewmcodes/standard-ruby-action/tree/v0.0.2) (2019-11-07)
 
-[Full Changelog](https://github.com/andrewmcodes/standardrb-action/compare/1c89e16f1ed4ca0d42fbc84b93f925f6a8d83da9...v0.0.1)
+[Full Changelog](https://github.com/andrewmcodes/standard-ruby-action/compare/v0.0.1...v0.0.2)
+
+**Merged pull requests:**
+
+- v0.0.2 version bump [\#4](https://github.com/andrewmcodes/standard-ruby-action/pull/4) ([andrewmcodes](https://github.com/andrewmcodes))
+- Fix unprocessable entity error when versions are present [\#3](https://github.com/andrewmcodes/standard-ruby-action/pull/3) ([andrewmcodes](https://github.com/andrewmcodes))
+- docs: add andrewmcodes as a contributor [\#2](https://github.com/andrewmcodes/standard-ruby-action/pull/2) ([allcontributors[bot]](https://github.com/apps/allcontributors))
+- Update issue templates [\#1](https://github.com/andrewmcodes/standard-ruby-action/pull/1) ([andrewmcodes](https://github.com/andrewmcodes))
+
+## [v0.0.1](https://github.com/andrewmcodes/standard-ruby-action/tree/v0.0.1) (2019-11-07)
+
+[Full Changelog](https://github.com/andrewmcodes/standard-ruby-action/compare/1c89e16f1ed4ca0d42fbc84b93f925f6a8d83da9...v0.0.1)
 
 
 

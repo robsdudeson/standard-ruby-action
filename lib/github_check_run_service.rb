@@ -7,7 +7,7 @@ class GithubCheckRunService
     @report = report
     @github_data = github_data
     @report_adapter = report_adapter
-    @client = GithubClient.new(@github_data[:token], user_agent: "standardrb-action")
+    @client = GithubClient.new(@github_data[:token], user_agent: "standard-ruby-action")
   end
 
   def run
