@@ -26,3 +26,8 @@ end
   end
 
 GithubCheckRunService.new(@report, @github_data, ReportAdapter).run
+
+if ReportAdapter.conclusion(@report) != "success"
+  pp "Job Failed"
+  exit 1
+end
