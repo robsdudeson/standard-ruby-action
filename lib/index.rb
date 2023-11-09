@@ -29,7 +29,7 @@ end
 
 GithubCheckRunService.new(@report, @github_data, ReportAdapter).run
 
-if ENV["STANDARD_RUBY_FAIL_ON_VIOLATIONS"] &&
+if ENV["STANDARD_RUBY_FAIL_ON_VIOLATIONS"] == "true" &&
     ReportAdapter.conclusion(@report) != "success"
   pp "Violations Found"
   exit 1
